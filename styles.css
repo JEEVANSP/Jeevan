@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+  }
+  h1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: black;
+      color: rgb(255, 252, 248);
+     text-align: center;
+      
+  }
+  h2{
+      border: rgb(248, 4, 4);
+      border-width: thin;
+      border-style: dashed;
+      font-style: oblique;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: rgb(231, 15, 166);
+  }
+  .instagram{
+      width: 30px;
+  }
+  .gmail{
+      width: 30px;
+  }
+  .whatsapp{width: 30px;}
